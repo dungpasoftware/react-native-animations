@@ -1,7 +1,7 @@
 /* eslint-disable no-use-before-define */
 import React from 'react';
 import type { Node } from 'react';
-import FlatListCarousel from 'containers/FlatListCarousel';
+import StickyFooter from 'containers/StickyFooter';
 
-const App: () => Node = () => <FlatListCarousel />;
+const App: () => Node = () => <StickyFooter />;
 export default App;
