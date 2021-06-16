@@ -7,3 +7,7 @@
 **_StickyFooter_**
 
 ![Alt Text](https://media.giphy.com/media/gfzZFO9ODvacH3ov6t/giphy.gif)
+
+**_ParallaxCarosel_**
+
+![Alt Text](https://media.giphy.com/media/gwIRV8622ZWINxvE53/giphy.gif)

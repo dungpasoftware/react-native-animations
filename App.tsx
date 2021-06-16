@@ -1,7 +1,7 @@
 /* eslint-disable no-use-before-define */
 import React from 'react';
 import type { Node } from 'react';
-import StickyFooter from 'containers/StickyFooter';
+import ParallaxCarousel from 'containers/ParallaxCarousel';
 
-const App: () => Node = () => <StickyFooter />;
+const App: () => Node = () => <ParallaxCarousel />;
 export default App;
